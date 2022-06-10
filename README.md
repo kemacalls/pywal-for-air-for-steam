@@ -9,7 +9,9 @@ __[air for steam](https://github.com/airforsteam/Air-for-Steam)__ is a now aband
 
 __[pywal](https://github.com/dylanaraps/pywal)__ is a system theme uniformity project which is still supported that i _very much_ like. 
 
-i've been spurred into action by my dissatisfaction with current pywal-steam theming solutions, particularly because pywal's templating system doesn't support the kinds of RGB codes steam likes.
+i've been spurred into action by my dissatisfaction with current pywal-steam theming solutions, particularly because pywal's templating system doesn't support the kinds of RGB codes steam likes.  
+
+if you don't have experience with what using deprecated steam skins looks like, you should know that this is only going to be a comprehensive skin solution for Steam's "Small Mode" display. in the discussion section i talk about how i will do the bigger project of smooshing pywal and a current steam skin together later.
 
 ## requirements
 
