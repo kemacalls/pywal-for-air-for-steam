@@ -17,34 +17,34 @@ blue.styles {{
 
 	colors {{
 		A2Background					"{background.rgb} 255"				//client bg
-		A2Ribbon						"{background.rgb} 255"				//bg for section emphasis (ie. left side of settings dialog)
+		A2Ribbon						"{color9.rgb} 255"				//bg for section emphasis (ie. left side of settings dialog)
 		A2Divider						"{color11.rgb} 255"				//client dividers
-		A2Snackbar						"{color2.rgb} 255"				//bg for download notification
+		A2Snackbar						"{background.rgb} 255"				//bg for download notification
 		A2Notification					"A2Snackbar"				//bg for steam popup notifications
 		A2Bar							"{color1.rgb} 255"				//bg for greater section emphasis (ie. voice chat and trade notifications)
-		A2Menu							"A2Bar"						//menu bg
-		A2MenuDivider					"{color12.rgb} 255"				//menu dividers
+		A2Menu							"{background.rgb} 255"						//menu bg
+		A2MenuDivider					"{background.rgb} 255"				//menu dividers
 
 		A2ButtonHover					"{color8.rgb} 50"			//button bg on hover
 		A2ButtonActive					"{color7.rgb} 100"			//button bg on click
 		A2DetailsButton					"{background.rgb} 100"				//details install/play button
 		A2DetailsButtonHover			"{background.rgb} 200"				//details install/play button hover
 
-		A2Scroll						"28 47 69 255"				//scrollbar handle
-		A2ScrollHover					"60 108 149 100"			//scrollbar handle on hover
+		A2Scroll						"{color3.rgb} 255"				//scrollbar handle
+		A2ScrollHover					"{color11.rgb} 100"			//scrollbar handle on hover
 		A2ScrollGutter					"A2Ribbon"					//scrollbar gutter/backdrop
 
 		A2TextPrimary					"255 255 255 220"			//white 87%, text
 		A2TextSecondary					"255 255 255 140"			//white 54%, caption
 		A2TextLabel						"255 255 255 100"			//white 39%, label
 		A2TextHint						"255 255 255 66"			//white 26%, hint text, disabled items
-		A2TextBlack						"Black"						//black text
-		A2TextBlackHover				"0 0 0 220"					//hover
+		A2TextBlack						"{color2.rgb} 255"						//black text
+		A2TextBlackHover				"{color10.rgb} 220"					//hover
 		A2TextWhite						"White"						//white text
 		A2TextWhiteHover				"255 255 255 220"			//hover
 
 		A2TextOnFocus					"255 255 255 210"			//text color on focus color (header)
-		A2TextOnFocusHover				"Air255"					//hover
+		A2TextOnFocusHover				"{color15.rgb} 255"					//hover
 		A2TextNotification				"Air255"					//text color of a notification
 		A2TextNotificationSoft			"255 255 255 210"			//softer text color on notification (also used for hover)
 		A2TextSelected					"Air255"					//selected text color (usually on focus2)

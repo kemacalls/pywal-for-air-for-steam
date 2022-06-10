@@ -224,7 +224,6 @@ def airConfig(yaml_config):
             data.remove(i)
             b += 1
             if b ==2:
-                print(a, b)
                 data.insert(a-3, ('    include "resource/themes/' + yaml_config['wal_template_file'] + '"'))
 
     with open(write_path,'w') as config:
