@@ -21,11 +21,20 @@ if you use arch, all of these can be found in the AUR
 
 ## install
 
-i think you just clone the repo to somewhere tidy where you can reference it later and just run `pip install -r requirements.txt`.
+clone the repo to somewhere tidy where you can reference it later:
+`git clone https://github.com/okosuno/pywal-for-air-for-steam.git`
+get in there:
+`cd pywal-for-air-for-steam`
+intall requirements:
+`pip install -r requirements.txt`
 
 ## execution
 
-just run `python pywal_air.py` in the directory and follow the prompts.
+run script without flags to start:
+`python pywal_air.py`
+`--help` to get help.
+`--template` to refresh the template.
+`--config` to perform setup again.
 
 ## what does it do exactly
 
@@ -40,8 +49,7 @@ you can tweak values inside the template file to your hearts content and run `py
 
 ## troubleshooting
 
-at this stage, i've barely tested it, it's probably busted. i am not very good at this so if its busted please tell me how to fix it.  
-thank you.
+at this stage, i've barely tested it, it's probably busted. i am not very good at this so if its busted please tell me how to fix it. thanks.
 
 ## discussion
 
