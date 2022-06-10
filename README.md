@@ -21,7 +21,7 @@ if you use arch, all of these can be found in the AUR
 
 ## install
 
-i think you just clone the repo to somewhere tidy where you can reference it later and just run `pip install -r requirement`.
+i think you just clone the repo to somewhere tidy where you can reference it later and just run `pip install -r requirements.txt`.
 
 ## execution
 
