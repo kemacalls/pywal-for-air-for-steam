@@ -1,8 +1,3 @@
-<p align=center>
-<a href="./LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-pink.svg"></a>
-<a href="https://discordapp.com/users/98584936050626560"><img src="https://img.shields.io/badge/discord-DMs-pink.svg"></a>
-</p>
-
 # disclaimer
 #### this thing is kind of busted right now. i haven't had time to comb through air for steam to get a 100% handle on the theme options. do not use this unless you plan on messing around with the template.
 
